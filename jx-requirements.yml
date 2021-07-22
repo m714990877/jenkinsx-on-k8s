@@ -6,12 +6,12 @@ spec:
     schedule: ""
   cluster:
     chartRepository: http://bucketrepo.jx.svc.cluster.local/bucketrepo/charts
-    clusterName: kind
+    clusterName: kubenetes
     devEnvApprovers:
-    - todo
-    environmentGitOwner: todo
+    - m714990877
+    environmentGitOwner: m714990877
     gitKind: github
-    gitName: github
+    gitName: m714990877
     gitServer: https://github.com
     provider: kubernetes
     registry: ghcr.io
