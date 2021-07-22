@@ -12,7 +12,7 @@ spec:
     environmentGitOwner: m714990877
     gitKind: github
     gitName: m714990877
-    gitServer: https://github.com
+    gitServer: https://github.com/m714990877/jenkinsx-on-k8s.git
     provider: kubernetes
     registry: ghcr.io
   environments:
